@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhaskar Nandy</h1>
 <h3 align="center">SWE @ICRA Analytics Ltd. | Specialist (1516) @Codeforces | Knight (2059) @Leetcode | BCA'22 + MCA'24</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
-<br>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" style="margin-bottom: 20px">
 
 - 👨‍💻 I’m currently working on my personal project *<a href="https://github.com/bhaskar4k/Streaming-App">Streaming App</a>*
 
