@@ -21,9 +21,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://www.linkedin.com/in/bhaskar-nandy/" target="blank"><img align="center" src="./Logo/linked-in-alt.svg" alt="Linkedin" height="30" width="40" title="LinkedIn"/></a>
     <a href="https://leetcode.com/u/bhaskar_op/" target="blank"><img align="center" src="./Logo/leet-code.svg" alt="Leetcode" height="30" width="40" title="Leetcode" /></a>
     <a href="https://codeforces.com/profile/bhaskar_op" target="blank"><img align="center" src="./Logo/codeforces.svg" alt="Codeforces" height="30" width="40" title="Codeforces" /></a>
+    <a href="https://www.linkedin.com/in/bhaskar-nandy/" target="blank"><img align="center" src="./Logo/linked-in-alt.svg" alt="Linkedin" height="30" width="40" title="LinkedIn"/></a>
     <a href="https://www.facebook.com/profile.php?id=100023023191362" target="blank"><img align="center" src="./Logo/facebook.svg" alt="Facebook" height="30" width="40" title="Facebook"/></a>
     <a href="https://www.instagram.com/brainlagged_engineer/" target="blank"><img align="center" src="./Logo/instagram.svg" alt="Instagram" height="30" width="40" title="Instagram" /></a>
 </p>
