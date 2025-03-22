@@ -78,4 +78,4 @@
 
 
 <p margin="auto"><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhaskar4k&show_icons=true&locale=en&layout=compact" alt="AlphaTanmoy"/>
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/Ll22OhMLAlVDb8UQWe/source.gif"></p>
+<img align="right" alt="Coding" width="50%" src="https://media3.giphy.com/media/Ll22OhMLAlVDb8UQWe/source.gif"></p>
