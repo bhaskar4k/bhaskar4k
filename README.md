@@ -23,7 +23,7 @@
 
 <hr color="blue" height="2">
 
-<h3 align="left">Languages and Tools:</h3>
+<!-- <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://angular.io" target="_blank" rel="noreferrer"> 
 <img src="./Logo/angular.svg" alt="angular" width="40" height="40" margin="3"/> </a> 
@@ -74,7 +74,7 @@
 <img src="./Logo/react-original-wordmark.svg" alt="react" width="40" height="40" margin="3"/> </a> 
 
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-<img src="./Logo/springio-icon.svg" alt="spring" width="40" height="40" margin="3"/> </a> 
+<img src="./Logo/springio-icon.svg" alt="spring" width="40" height="40" margin="3"/> </a>  -->
 
 
 <p margin="auto"><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhaskar4k&show_icons=true&locale=en&layout=compact" alt="AlphaTanmoy"/>
