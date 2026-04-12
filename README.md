@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Bhaskar Nandy</h1>
 <h3 align="center">SWE @ICRA Analytics Ltd. | Specialist (1516) @Codeforces | Knight (2059) @Leetcode | BCA'22 + MCA'24</h3>
 
-- 👨‍💻 I’m currently working on my personal project *<a href="https://github.com/bhaskar4k/Streaming-App">Streaming App</a>*
+<!-- - 👨‍💻 I’m currently working on my personal project *<a href="https://github.com/bhaskar4k/Streaming-App">Streaming App</a>* -->
 
 
-- 👨‍💻 [My Portfolio](https://bhaskar-nandy.vercel.app/)
+- 👨‍💻 [My Portfolio](https://bhaskarnandylife.vercel.app/)
 
 - 📫 Email ID : *bhaskarndy@gmail.com*
 
@@ -20,8 +20,3 @@
     <a href="https://www.facebook.com/profile.php?id=100023023191362" target="blank"><img align="center" src="./Logo/facebook.svg" alt="Facebook" height="30" width="40" title="Facebook"/></a>
     <a href="https://www.instagram.com/brainlagged_engineer/" target="blank"><img align="center" src="./Logo/instagram.svg" alt="Instagram" height="30" width="40" title="Instagram" /></a>
 </p>
-
-<hr color="blue" height="2">
-
-<p margin="auto"><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhaskar4k&show_icons=true&locale=en&layout=compact" alt="AlphaTanmoy"/>
-<img align="right" alt="Coding" width="25%" src="https://media3.giphy.com/media/Ll22OhMLAlVDb8UQWe/source.gif"></p>
