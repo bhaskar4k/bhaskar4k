@@ -10,7 +10,6 @@
 
 <!-- - 📄 Know about my experiences [https://drive.google.com/file/d/1m3OREySmds5GBxjZeJT6ybAChAK8bGN0/view](https://drive.google.com/file/d/1m3OREySmds5GBxjZeJT6ybAChAK8bGN0/view) -->
 
-<!-- <iframe src="https://bhaskar-nandy.vercel.app/"></iframe> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
