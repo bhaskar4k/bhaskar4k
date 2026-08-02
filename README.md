@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bhaskar Nandy</h1>
 <h3 align="center">SWE (Product Engineering Team) @ICRA Analytics Ltd. | Specialist (1516) @Codeforces | Knight (2059) @Leetcode | BCA'22 + MCA'24</h3>
 
-<!-- - 👨‍💻 I’m currently working on my personal project *<a href="https://github.com/bhaskar4k/Streaming-App">Streaming App</a>* -->
+<p>
+    Building enterprise-grade financial software with a focus on scalable backend systems, distributed architecture, large-scale data processing, and secure application design. Passionate about performance optimization, engineering best practices, and delivering reliable, production-ready solutions through collaborative product development.
+</p>
 
 - 👨‍💻 [About Me](https://bhaskarnandylife.vercel.app/)
 
