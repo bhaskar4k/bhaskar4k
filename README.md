@@ -5,7 +5,7 @@
 
 - 👨‍💻 [About Me](https://bhaskarnandylife.vercel.app/)
 
-- 📫 Email ID : *bhaskarndy@gmail.com*
+- 📫 Email : *bhaskarndy@gmail.com*
 
 - 🤖 Currently, I'm building [My Cloud (My Personalized Cloud Storage)](https://github.com/bhaskar4k/My-Cloud)
 
