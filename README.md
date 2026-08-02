@@ -5,11 +5,11 @@
     As a Product Engineer, I'm building enterprise-grade financial software with a focus on scalable backend systems, distributed architecture, large-scale data processing, and secure application design. Passionate about performance optimization, engineering best practices, and delivering reliable, production-ready solutions through collaborative product development.
 </p>
 
-- 👨‍💻 [About Me](https://bhaskarnandylife.vercel.app/)
+👨‍💻 [About Me](https://bhaskarnandylife.vercel.app/)
 
-- 📫 Email : *bhaskarndy@gmail.com*
+📫 Email : *bhaskarndy@gmail.com*
 
-- 🤖 Currently, I'm building [My Cloud (My Personalized Cloud Storage)](https://github.com/bhaskar4k/My-Cloud)
+🤖 Currently, I'm building [My Cloud (My Personalized Cloud Storage)](https://github.com/bhaskar4k/My-Cloud)
 
 <!-- - 📄 Know about my experiences [https://drive.google.com/file/d/1m3OREySmds5GBxjZeJT6ybAChAK8bGN0/view](https://drive.google.com/file/d/1m3OREySmds5GBxjZeJT6ybAChAK8bGN0/view) -->
 
