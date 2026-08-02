@@ -3,7 +3,7 @@
 
 <!-- - 👨‍💻 I’m currently working on my personal project *<a href="https://github.com/bhaskar4k/Streaming-App">Streaming App</a>* -->
 
-- 👨‍💻 [My Portfolio](https://bhaskarnandylife.vercel.app/)
+- 👨‍💻 [About Me](https://bhaskarnandylife.vercel.app/)
 
 - 📫 Email ID : *bhaskarndy@gmail.com*
 
