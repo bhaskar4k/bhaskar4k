@@ -3,11 +3,9 @@
 
 <p>
     Product Engineer building enterprise-grade financial software because apparently making if-else statements wasn't challenging enough.
-</p>
-<p>
+    <br>
     Into scalable backend systems, distributed architecture, large-scale data, performance optimization, and turning production bugs into character development.
-</p>
-<p>
+    <br>
     I make systems faster, databases nervous, and deployments mostly reliable.
 </p>
 
