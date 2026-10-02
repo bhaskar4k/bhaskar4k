@@ -2,7 +2,13 @@
 <h3 align="center">SWE (Product Engineering Team) @ICRA Analytics Ltd. | Specialist (1516) @Codeforces | Knight (2059) @Leetcode | BCA'22 + MCA'24</h3>
 
 <p>
-    As a Product Engineer, I'm building enterprise-grade financial software with a focus on scalable backend systems, distributed architecture, large-scale data processing, and secure application design. Passionate about performance optimization, engineering best practices, and delivering reliable, production-ready solutions through collaborative product development.
+    Product Engineer building enterprise-grade financial software because apparently making if-else statements wasn't challenging enough.
+</p>
+<p>
+    Into scalable backend systems, distributed architecture, large-scale data, performance optimization, and turning production bugs into character development.
+</p>
+<p>
+    I make systems faster, databases nervous, and deployments mostly reliable.
 </p>
 
 <br>
