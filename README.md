@@ -18,8 +18,8 @@
 🤖 Currently, I'm building 
 <br>
 <ul>
-    <li>[My Cloud (My Personalized Cloud Storage)](https://github.com/bhaskar4k/My-Cloud)</li>
-    <li>[D-100 (A Data Cleaner, Structurer, Analyser Tool)](https://github.com/bhaskar4k/D-100)</li>
+    <li><a href="https://github.com/bhaskar4k/My-Cloud">My Cloud (My Personalized Cloud Storage)</a></li>
+    <li><a href="https://github.com/bhaskar4k/D-100">D-100 (A Data Cleaner, Structurer, Analyser Tool)</a></li>
 </ul>
 
 
