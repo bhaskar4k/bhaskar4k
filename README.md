@@ -17,9 +17,11 @@
 
 🤖 Currently, I'm building 
 <br>
-[My Cloud (My Personalized Cloud Storage)](https://github.com/bhaskar4k/My-Cloud)
-<br>
-[D-100 (A Data Cleaner, Structurer, Analyser Tool)](https://github.com/bhaskar4k/D-100)
+<ul>
+    <li>[My Cloud (My Personalized Cloud Storage)](https://github.com/bhaskar4k/My-Cloud)</li>
+    <li>[D-100 (A Data Cleaner, Structurer, Analyser Tool)](https://github.com/bhaskar4k/D-100)</li>
+</ul>
+
 
 <!-- - 📄 Know about my experiences [https://drive.google.com/file/d/1m3OREySmds5GBxjZeJT6ybAChAK8bGN0/view](https://drive.google.com/file/d/1m3OREySmds5GBxjZeJT6ybAChAK8bGN0/view) -->
 
